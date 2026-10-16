@@ -1,0 +1,50 @@
+{
+  "actors": [
+    {
+      "definition": "game/actor/rifleman",
+      "facing": 0.0,
+      "position": [
+        -400.0,
+        -80.0
+      ],
+      "team": 1
+    },
+    {
+      "definition": "game/actor/rifleman",
+      "facing": 0.0,
+      "position": [
+        -400.0,
+        80.0
+      ],
+      "team": 1
+    },
+    {
+      "definition": "game/actor/rifleman",
+      "facing": 3.141592653589793,
+      "position": [
+        400.0,
+        -80.0
+      ],
+      "team": 2
+    },
+    {
+      "definition": "game/actor/rifleman",
+      "facing": 3.141592653589793,
+      "position": [
+        400.0,
+        80.0
+      ],
+      "team": 2
+    }
+  ],
+  "flash_level": 1,
+  "metadata": {
+    "author": "",
+    "description": "AI2.g: 2v2 duel on the same pinch map as AI2.f -- lets the role assigner split Attacker + Defender per team.",
+    "name": "AI2.g tactical 2v2"
+  },
+  "spawn_points": [],
+  "startup_script": null,
+  "terrain_map": "game/maps/level",
+  "tilemap": null
+}

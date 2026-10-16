@@ -1,0 +1,25 @@
+{
+    "flash_hud": 1,
+    "root": {
+        "kind": "vbox",
+        "gap": 2.0,
+        "children": [
+            { "kind": "label",            "text": "Bang" },
+            { "kind": "label",            "text": "Pre-alpha" },
+            { "kind": "resource_bar",     "only": "Gold, Supplies" },
+            { "kind": "minimap",          "size": "180" },
+            { "kind": "supplies_counter", "def_id": "3",
+              "label": "Supplies crates" },
+            { "kind": "portrait"          },
+            { "kind": "command_card"      },
+            { "kind": "inventory"         },
+            { "kind": "ability_bar"       },
+            { "kind": "music_player"      },
+            { "kind": "audio_settings"    },
+            { "kind": "replay_scrubber"   },
+            { "kind": "replay_controls"   },
+            { "kind": "label",            "text": "F8: Save Replay" },
+            { "kind": "replay_browser"    }
+        ]
+    }
+}

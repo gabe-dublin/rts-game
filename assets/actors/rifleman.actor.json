@@ -1,0 +1,41 @@
+{
+  "abilities": [
+    "game/ability/hunker_down"
+  ],
+  "ability_hotkeys": [
+    "h"
+  ],
+  "actor_asset": 3,
+  "display_name": "Rifleman",
+  "actor_resources": [],
+  "aggro_range": 384.0,
+  "armor": "",
+  "bounty": [],
+  "capacity_provided": [],
+  "cruise_height": 24.0,
+  "death_drop": [],
+  "death_drop_target": "killer",
+  "death_duration_ticks": 60,
+  "def_id": 1,
+  "footprint": [
+    1,
+    1
+  ],
+  "is_flyer": false,
+  "leash_range": 512.0,
+  "max_health": 100,
+  "move_speed": 160.0,
+  "pathfinder": "",
+  "primary_weapon": "game/weapon/rifle",
+  "production_options": [],
+  "production_queue_cap": 1,
+  "role_affinity": "frontline",
+  "selection_priority": 100,
+  "sprite_sheet": "",
+  "turn_speed": 4.5,
+  "vision_profile": {
+    "base_radius": 500.0,
+    "forward_bonus": 0.0,
+    "sharpness": 1
+  }
+}

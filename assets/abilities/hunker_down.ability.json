@@ -1,0 +1,20 @@
+{
+  "ability_asset": 2,
+  "cast_time_ticks": 0,
+  "cooldown_ticks": 30,
+  "effects": [
+    "game/effect/apply_hunker"
+  ],
+  "is_toggle": true,
+  "name": "Hunker Down",
+  "on_deactivate_effects": [
+    "game/effect/remove_hunker"
+  ],
+  "range": 0.0,
+  "requires_caster": [
+    "not_silenced",
+    "not_stunned"
+  ],
+  "requires_target": "self",
+  "target_kind": "self_only"
+}

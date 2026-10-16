@@ -1,0 +1,30 @@
+{
+  "actor_asset": 3,
+  "def_id": 3,
+  "display_name": "Supplies",
+  "move_speed": 0.0,
+  "max_health": 0,
+  "footprint": [1, 1],
+  "pathfinder": "",
+  "sprite_sheet": "",
+  "primary_weapon": "",
+  "aggro_range": 0.0,
+  "leash_range": 0.0,
+  "turn_speed": 0.0,
+  "death_duration_ticks": 0,
+  "cargo_capacity": 0.0,
+  "is_item": true,
+  "selection_priority": -100,
+  "actor_resources": [],
+  "abilities": [],
+  "ability_hotkeys": [],
+  "bounty": [],
+  "death_drop": [],
+  "death_drop_target": "killer",
+  "capacity_provided": [],
+  "vision_profile": {
+    "base_radius": 0.0,
+    "forward_bonus": 0.0,
+    "sharpness": 1
+  }
+}

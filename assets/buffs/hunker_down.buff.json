@@ -1,0 +1,29 @@
+{
+  "buff_asset": 1,
+  "duration_ticks": 0,
+  "modifiers": [
+    {
+      "op": "mul",
+      "stat": "range",
+      "value": 2.0
+    },
+    {
+      "op": "mul",
+      "stat": "attack_arc",
+      "value": 0.3
+    },
+    {
+      "op": "mul",
+      "stat": "move_speed",
+      "value": 0.3
+    },
+    {
+      "op": "mul",
+      "stat": "turn_speed",
+      "value": 0.4
+    }
+  ],
+  "name": "Hunker Down",
+  "stack_max": 1,
+  "stack_rule": "refresh"
+}

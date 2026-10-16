@@ -1,0 +1,19 @@
+{
+  "arc_degrees": 360.0,
+  "can_attack_while_moving": false,
+  "can_target_airborne": true,
+  "cooldown_ticks": 45,
+  "damage": [
+    {
+      "amount": 20,
+      "kind": "flat",
+      "mode": "flat"
+    }
+  ],
+  "kind": "hitscan",
+  "range": 96.0,
+  "min_range": 24.0,
+  "weapon_asset": 2,
+  "winddown_ticks": 5,
+  "windup_ticks": 10
+}

@@ -1,0 +1,11 @@
+{
+    "resource_asset":     1,
+    "def_id":             1,
+    "display_name":       "Gold",
+    "scope":              "player",
+    "value_type":         "int",
+    "default_value":      500,
+    "default_min":        0,
+    "default_max":        0,
+    "passive_generation": 0.0
+}

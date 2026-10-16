@@ -1,0 +1,15 @@
+# Build / cook output
+build/
+cooked/
+_pak/
+*.pak
+*.pak.sha256.json
+
+# Editor / tool caches
+.cache/
+.flash_cache/
+
+# OS cruft
+Thumbs.db
+.DS_Store
+desktop.ini

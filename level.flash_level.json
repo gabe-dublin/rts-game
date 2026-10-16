@@ -1,0 +1,60 @@
+{
+  "actors": [
+    {
+      "definition": "game/actor/rifleman",
+      "facing": 0.0,
+      "position": [
+        -400.0,
+        0.0
+      ],
+      "team": 1
+    },
+    {
+      "definition": "game/actor/rifleman",
+      "facing": 3.141592653589793,
+      "position": [
+        400.0,
+        0.0
+      ],
+      "team": 2
+    },
+    {
+      "definition": "game/actor/supplies",
+      "facing": 0.0,
+      "position": [-120.0, 100.0],
+      "team": 0
+    },
+    {
+      "definition": "game/actor/supplies",
+      "facing": 0.0,
+      "position": [120.0, 100.0],
+      "team": 0
+    },
+    {
+      "definition": "game/actor/supplies",
+      "facing": 0.0,
+      "position": [-120.0, -100.0],
+      "team": 0
+    },
+    {
+      "definition": "game/actor/supplies",
+      "facing": 0.0,
+      "position": [120.0, -100.0],
+      "team": 0
+    }
+  ],
+  "flash_level": 1,
+  "metadata": {
+    "author": "",
+    "description": "AI2.f: 1v1 riflemen separated by a wall; narrow 3-cell gap near y=0 forces an approach through the chokepoint.",
+    "name": "AI2.f tactical duel"
+  },
+  "spawn_points": [],
+  "startup_script": null,
+  "teams": [
+    { "id": 1, "controller": "human", "display_name": "Blue" },
+    { "id": 2, "controller": "ai",    "display_name": "Red"  }
+  ],
+  "terrain_map": "game/maps/level",
+  "tilemap": null
+}

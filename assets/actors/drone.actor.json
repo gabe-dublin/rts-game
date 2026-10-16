@@ -1,0 +1,37 @@
+{
+  "abilities": [],
+  "ability_hotkeys": [],
+  "actor_asset": 3,
+  "display_name": "Drone",
+  "actor_resources": [],
+  "aggro_range": 0.0,
+  "armor": "",
+  "bounty": [],
+  "capacity_provided": [],
+  "cruise_height": 48.0,
+  "death_drop": [],
+  "death_drop_target": "killer",
+  "death_duration_ticks": 60,
+  "def_id": 2,
+  "footprint": [
+    1,
+    1
+  ],
+  "is_flyer": true,
+  "leash_range": 0.0,
+  "max_health": 60,
+  "move_speed": 240.0,
+  "pathfinder": "",
+  "primary_weapon": "",
+  "production_options": [],
+  "production_queue_cap": 1,
+  "role_affinity": "unspecified",
+  "selection_priority": 50,
+  "sprite_sheet": "",
+  "turn_speed": 6.0,
+  "vision_profile": {
+    "base_radius": 700.0,
+    "forward_bonus": 0.0,
+    "sharpness": 1
+  }
+}

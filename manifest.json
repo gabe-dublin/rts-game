@@ -1,0 +1,75 @@
+{
+    "assets": [
+        {
+            "id": "game/actor/rifleman",
+            "path": "assets/actors/rifleman.actor.json",
+            "type": "actor"
+        },
+        {
+            "id": "game/actor/drone",
+            "path": "assets/actors/drone.actor.json",
+            "type": "actor"
+        },
+        {
+            "id": "game/actor/supplies",
+            "path": "assets/actors/supplies.actor.json",
+            "type": "actor"
+        },
+        {
+            "id": "game/hud/main",
+            "path": "hud.flash_hud.json",
+            "type": "hud"
+        },
+        {
+            "id": "game/resource/gold",
+            "path": "assets/resources/gold.resource.json",
+            "type": "resource"
+        },
+        {
+            "id": "game/resource/oil",
+            "path": "assets/resources/oil.resource.json",
+            "type": "resource"
+        },
+        {
+            "id": "game/resource/supplies",
+            "path": "assets/resources/supplies.resource.json",
+            "type": "resource"
+        },
+        {
+            "id": "game/buff/hunker_down",
+            "path": "assets/buffs/hunker_down.buff.json",
+            "type": "buff"
+        },
+        {
+            "id": "game/effect/apply_hunker",
+            "path": "assets/effects/apply_hunker.effect.json",
+            "type": "effect"
+        },
+        {
+            "id": "game/effect/remove_hunker",
+            "path": "assets/effects/remove_hunker.effect.json",
+            "type": "effect"
+        },
+        {
+            "id": "game/ability/hunker_down",
+            "path": "assets/abilities/hunker_down.ability.json",
+            "type": "ability"
+        },
+        {
+            "id": "game/weapon/rifle",
+            "path": "assets/weapons/rifle.weapon.json",
+            "type": "weapon"
+        },
+        {
+            "id": "game/tile/wall",
+            "path": "assets/tiles/wall.tile.json",
+            "type": "tile"
+        },
+        {
+            "id": "game/maps/level",
+            "path": "level.terrainmap.json",
+            "type": "terrain_map"
+        }
+    ],
+    "version": 1
+}

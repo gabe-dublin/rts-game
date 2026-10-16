@@ -1,0 +1,6 @@
+{
+  "buff": "game/buff/hunker_down",
+  "effect_asset": 1,
+  "kind": "apply_buff",
+  "target": "self"
+}
