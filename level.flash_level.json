@@ -10,6 +10,15 @@
       "team": 1
     },
     {
+      "definition": "game/actor/combat_engineer",
+      "facing": 0.0,
+      "position": [
+        -400.0,
+        -80.0
+      ],
+      "team": 1
+    },
+    {
       "definition": "game/actor/rifleman",
       "facing": 3.141592653589793,
       "position": [

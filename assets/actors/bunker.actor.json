@@ -1,0 +1,38 @@
+{
+  "abilities": [],
+  "ability_hotkeys": [],
+  "actor_asset": 3,
+  "display_name": "Bunker",
+  "actor_resources": [],
+  "aggro_range": 0.0,
+  "armor": "",
+  "bounty": [],
+  "capacity_provided": [],
+  "cruise_height": 0.0,
+  "death_drop": [],
+  "death_drop_target": "killer",
+  "death_duration_ticks": 60,
+  "def_id": 5,
+  "footprint": [
+    3,
+    3
+  ],
+  "is_building": true,
+  "is_flyer": false,
+  "leash_range": 0.0,
+  "max_health": 300,
+  "move_speed": 0.0,
+  "pathfinder": "",
+  "primary_weapon": "",
+  "production_options": [],
+  "production_queue_cap": 1,
+  "role_affinity": "frontline",
+  "selection_priority": 25,
+  "sprite_sheet": "",
+  "turn_speed": 0.0,
+  "vision_profile": {
+    "base_radius": 200.0,
+    "forward_bonus": 0.0,
+    "sharpness": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "abilities": [
+    "game/ability/build_bunker"
+  ],
+  "ability_hotkeys": [
+    "b"
+  ],
+  "actor_asset": 3,
+  "display_name": "Combat Engineer",
+  "actor_resources": [],
+  "aggro_range": 320.0,
+  "armor": "",
+  "bounty": [],
+  "capacity_provided": [],
+  "cruise_height": 24.0,
+  "death_drop": [],
+  "death_drop_target": "killer",
+  "death_duration_ticks": 60,
+  "def_id": 4,
+  "footprint": [
+    1,
+    1
+  ],
+  "is_flyer": false,
+  "leash_range": 448.0,
+  "max_health": 80,
+  "move_speed": 150.0,
+  "pathfinder": "",
+  "primary_weapon": "game/weapon/engineer_rifle",
+  "production_options": [],
+  "production_queue_cap": 1,
+  "role_affinity": "frontline",
+  "selection_priority": 100,
+  "sprite_sheet": "",
+  "turn_speed": 4.5,
+  "vision_profile": {
+    "base_radius": 480.0,
+    "forward_bonus": 0.0,
+    "sharpness": 1
+  }
+}

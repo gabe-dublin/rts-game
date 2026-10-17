@@ -1,0 +1,8 @@
+{
+  "actor": "game/actor/bunker",
+  "count": 1,
+  "effect_asset": 1,
+  "kind": "spawn_actor",
+  "owner": "caster_owner",
+  "target": "primary_target"
+}
