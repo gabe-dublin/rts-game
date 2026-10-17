@@ -1,12 +1,10 @@
 {
   "ability_asset": 2,
+  "builds": "game/actor/bunker",
   "cast_time_ticks": 0,
   "cooldown_ticks": 60,
-  "effects": [
-    "game/effect/spawn_bunker"
-  ],
   "name": "Build Bunker",
-  "range": 96.0,
+  "range": 1000.0,
   "requires_caster": [
     "not_silenced",
     "not_stunned"

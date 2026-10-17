@@ -9,6 +9,7 @@
   "display_name": "Combat Engineer",
   "actor_resources": [],
   "aggro_range": 320.0,
+  "build_range": 48.0,
   "armor": "",
   "bounty": [],
   "capacity_provided": [],

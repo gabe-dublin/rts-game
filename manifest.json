@@ -61,11 +61,6 @@
             "type": "effect"
         },
         {
-            "id": "game/effect/spawn_bunker",
-            "path": "assets/effects/spawn_bunker.effect.json",
-            "type": "effect"
-        },
-        {
             "id": "game/ability/hunker_down",
             "path": "assets/abilities/hunker_down.ability.json",
             "type": "ability"
