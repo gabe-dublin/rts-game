@@ -12,6 +12,7 @@
               "label": "Supplies crates" },
             { "kind": "portrait"          },
             { "kind": "command_card"      },
+            { "kind": "command_log"       },
             { "kind": "inventory"         },
             { "kind": "ability_bar"       },
             { "kind": "music_player"      },
