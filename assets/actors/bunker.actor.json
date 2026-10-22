@@ -4,6 +4,7 @@
   "actor_asset": 3,
   "display_name": "Bunker",
   "actor_resources": [],
+  "construction_ticks": 180,
   "aggro_range": 0.0,
   "armor": "",
   "bounty": [],
